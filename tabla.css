@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Algerian, sans-serif;
+    margin: 0;
+   background: url(love.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+body{
+    background-color: aqua;
+}
+#texto{
+    font-size: 30px;
+    font-family: italics;
+    color: yellow;
+}
+#okey{
+    font-size: 60px;
+    font-family: italics;
+    color: red;
+}
+#rollo{
+    font-size: 40px;
+    font-family: italics;
+    color: black;
+}
+#bravo{
+    font-size: 30px;
+    font-family: italics;
+    color: blue;
+}
+#esta{
+
+    font-size: 30px;
+    font-family: italics;
+    color: purple;
+}
+#sisi
+{
+    font-size: 30px;
+    font-family: italics;
+    color: green;
+}
